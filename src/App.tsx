@@ -3,7 +3,7 @@ import { Lock, Zap, Shield } from 'lucide-react';
 
 function App() {
   const handleCTAClick = () => {
-    window.open('https://go.disruptybr.com.br/p8vck3mldn', '_blank');
+    window.open('https://go.disruptybr.com.br/xfuemwpvjf', '_blank');
   };
 
   return (
